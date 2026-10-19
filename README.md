@@ -29,10 +29,10 @@
     <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
   </a>
 
-  <h3>Other</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,swagger&theme=light" />
-  </a>
+<h3>Other</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postman,swagger,cisco&theme=light" />
+</a>
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
