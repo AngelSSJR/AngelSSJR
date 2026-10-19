@@ -23,30 +23,32 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat-square&logo=swagger&logoColor=black) ![Cisco](https://img.shields.io/badge/Cisco-049FD9.svg?style=flat-square&logo=cisco&logoColor=white)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<!--- GitHub Stats (start) -->
+<!--- stats & Trophy (start) -->
 <p align="center">
   <table align="center">
     <tr>
-      <td width="50%" align="center">
+      <td align="center">
+        <!-- GitHub Stats -->
         <img src="https://github-readme-stats.vercel.app/api?username=AngelSSJR&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
         <br><br>
+
+        <!-- GitHub Streak -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelSSJR&theme=dark&hide_border=false" alt="GitHub Streak" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSSJR&theme=dark&hide_border=false&layout=compact&langs_count=10" alt="Lenguajes más utilizados" />
+        <br><br>
+
+        <!-- Most Used Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSSJR&theme=dark&hide_border=false&layout=compact&langs_count=10" alt="Most Used Languages" />
+        <br><br>
+
+        <!-- GitHub Trophies -->
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=AngelSSJR&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" alt="GitHub Trophies" />
+        </a>
       </td>
     </tr>
   </table>
 </p>
-<!--- GitHub Stats (end) -->
-
-<!--- GitHub Trophies (start) -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AngelSSJR&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="84%" alt="GitHub Trophies" />
-  </a>
-</div>
-<!--- GitHub Trophies (end) -->
+<!--- stats & Trophy (end) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AngelSSJR&theme=radical&no-frame=true&no-bg=true&margin-w=4)
