@@ -21,7 +21,8 @@
 
 ### Other
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat-square&logo=swagger&logoColor=black) ![Cisco](https://img.shields.io/badge/Cisco-049FD9.svg?style=flat-square&logo=cisco&logoColor=white)
-# 📊 GitHub Stats:
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![](https://github-readme-stats.shion.dev/api?username=AngelSSJR&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AngelSSJR&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AngelSSJR&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
