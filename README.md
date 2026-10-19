@@ -26,17 +26,6 @@
 ![](https://streak-stats.demolab.com/?user=AngelSSJR&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AngelSSJR&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/AngelSSJR/count.svg"/>
-  <br/>
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelSSJR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSSJR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelSSJR&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-</div>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AngelSSJR&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
