@@ -19,7 +19,7 @@
 <div align="center">
   <h3>Programming Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,javascript,typescript,html,css&theme=light" />
   </a>
 
   <h3>Databases</h3>
