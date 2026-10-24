@@ -24,9 +24,10 @@
     <img src="https://skillicons.dev/icons?i=spring,flask,express,nodejs,react,angular,vite,bootstrap,tailwind&theme=light" />
   </a>
 
-  <h3>CVS</h3>
+  <h3>CVS & Development tools</h3>
+ 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light" />
   </a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
