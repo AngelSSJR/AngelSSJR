@@ -9,7 +9,7 @@
 
 <!--tech stack icons-->
 <div align="center">
-  <h3>Languages</h3>
+  <h3>Programming Languages</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&theme=light" />
   </a>
