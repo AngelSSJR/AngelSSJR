@@ -13,10 +13,6 @@
 ## 💫 About Me:
 <br>Soy un desarrollador de Software, apasionado por la tecnología y el aprendizaje constante.<br><br>Me caracterizo por aprender rápido, adaptarme a nuevos retos y mantener una mentalidad enfocada en mejorar continuamente. Disfruto participar en proyectos donde pueda aportar ideas, trabajar en equipo y seguir creciendo tanto técnica como profesionalmente.<br><br>Tengo especial interés en tecnologías como Java, Python, Node.js, Express, TypeScript y bases de datos SQL/NoSQL. Me interesa especialmente el desarrollo backend, las APIs y la construcción de proyectos reales.<br><br>Mi objetivo es seguir desarrollando mis habilidades, adquirir experiencia profesional, colaborar con equipos de desarrollo y continuar aprendiendo nuevas tecnologías y buenas prácticas de programación.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/darkangel77761/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@angeldvr0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angeldavidromoesquea2021@gmail.com) 
-
 # 💻 Tech Stack:
 
 <!--tech stack icons-->
