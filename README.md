@@ -15,7 +15,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/darkangel77761/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/angel-romo-b89497418) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@angeldvr0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angeldavidromoesquea2021@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/darkangel77761/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@angeldvr0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angeldavidromoesquea2021@gmail.com) 
 
 # 💻 Tech Stack:
 
