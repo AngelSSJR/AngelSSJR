@@ -1,4 +1,16 @@
-# 💫 About Me:
+<div align="center">
+  <a href="https://github.com/AngelSSJR">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:07111F,50:0F2B46,100:0891B2&text=Angel%20Romo&fontColor=EAF6FF&fontSize=34&fontAlignY=38&desc=Software%20Developer%20%7C%20Databases&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="Cabecera de Angel Romo" />
+  </a>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Applications+%7C+REST+APIs;Database+Design+%7C+Backend+Development;Building+solutions+through+code" alt="Presentación animada" />
+
+  <br/>
+
+  ![Profile Views](https://img.shields.io/badge/Profile_Views-AngelSSJR-0891B2?style=flat-square&logo=github)
+</div>
+
+## 💫 About Me:
 <br>Soy un desarrollador de Software, apasionado por la tecnología y el aprendizaje constante.<br><br>Me caracterizo por aprender rápido, adaptarme a nuevos retos y mantener una mentalidad enfocada en mejorar continuamente. Disfruto participar en proyectos donde pueda aportar ideas, trabajar en equipo y seguir creciendo tanto técnica como profesionalmente.<br><br>Tengo especial interés en tecnologías como Java, Python, Node.js, Express, TypeScript y bases de datos SQL/NoSQL. Me interesa especialmente el desarrollo backend, las APIs y la construcción de proyectos reales.<br><br>Mi objetivo es seguir desarrollando mis habilidades, adquirir experiencia profesional, colaborar con equipos de desarrollo y continuar aprendiendo nuevas tecnologías y buenas prácticas de programación.
 
 
